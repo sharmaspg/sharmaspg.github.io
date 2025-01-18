@@ -4,11 +4,6 @@
     <title>Tags on Personal Blog</title>
     <link>https://blog.vigneshsharma.in/tags/</link>
     <description>Recent content in Tags on Personal Blog</description>
-    <image>
-      <title>Personal Blog</title>
-      <url>https://blog.vigneshsharma.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://blog.vigneshsharma.in/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
     <atom:link href="https://blog.vigneshsharma.in/tags/index.xml" rel="self" type="application/rss+xml" />
