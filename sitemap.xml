@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.vigneshsharma.in/categories/</loc>
+    <lastmod>2025-01-19T01:23:26+05:30</lastmod>
+  </url><url>
     <loc>https://blog.vigneshsharma.in/posts/courage_to_be_disliked/</loc>
     <lastmod>2025-01-19T01:23:26+05:30</lastmod>
   </url><url>
@@ -14,11 +17,12 @@
     <loc>https://blog.vigneshsharma.in/posts/</loc>
     <lastmod>2025-01-19T01:23:26+05:30</lastmod>
   </url><url>
+    <loc>https://blog.vigneshsharma.in/categories/self-improvement/</loc>
+    <lastmod>2025-01-19T01:23:26+05:30</lastmod>
+  </url><url>
     <loc>https://blog.vigneshsharma.in/search/</loc>
   </url><url>
     <loc>https://blog.vigneshsharma.in/tags/self-improvement/</loc>
-  </url><url>
-    <loc>https://blog.vigneshsharma.in/categories/</loc>
   </url><url>
     <loc>https://blog.vigneshsharma.in/tags/</loc>
   </url>
